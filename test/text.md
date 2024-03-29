@@ -1,0 +1,7 @@
+```latex
+\hline
+```
+
+```{=latex}
+\hline
+```
